@@ -14,4 +14,4 @@ As seguintes etapas do Design Thinking[^1] devem estar apresentadas no decorrer 
 - Idealização
 - Prototipação
 
-[^1]: A etapada de Testes, que é a fase final do método, não precisa ser apresentada no projeto.
+[^1]: A etapa de Testes, que é a fase final do método, não precisa ser apresentada no projeto.
